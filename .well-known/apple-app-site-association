@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "DK5Q5PXA56.com.barnhaven.app"
+        ],
+        "components": [
+          {
+            "/": "/i"
+          },
+          {
+            "/": "/i/*"
+          }
+        ]
+      }
+    ]
+  }
+}
